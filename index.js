@@ -13,7 +13,7 @@ function destructivelyAppendCat(name) {
     console.log(cats);
     return cats;
 }
-// destructivelyAppendCat("Ralph");
+destructivelyAppendCat("Ralph");
 beforeEach()
 
 function destructivelyPrependCat(name) {
